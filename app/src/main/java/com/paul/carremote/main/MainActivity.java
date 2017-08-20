@@ -1,7 +1,9 @@
-package carremote.paul.com.samplecarremote;
+package com.paul.carremote.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import carremote.paul.com.samplecarremote.R;
 
 public class MainActivity extends AppCompatActivity {
 

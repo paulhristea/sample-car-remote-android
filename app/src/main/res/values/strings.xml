@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Sample Car Remote</string>
+
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
 </resources>
